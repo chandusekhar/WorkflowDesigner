@@ -130,7 +130,7 @@ function OnSave() {
         alert(err);
     }
     else {
-        wfdesigner.schemecode = "CALL_REPORT_TRX";
+        wfdesigner.schemecode = "SIMPLE_WORKFLOW";
         wfdesigner.save(function () {
             alert('The scheme is saved!');
         });

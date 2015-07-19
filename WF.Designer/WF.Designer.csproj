@@ -124,7 +124,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\WF\SimpleCallReportWorkflow.xml" />
+    <Content Include="App_Data\WF\SimpleWorkflow.xml" />
     <Content Include="Content\style.css" />
     <Content Include="Content\themes\base\images\toggle-collapse-dark.png" />
     <Content Include="Content\themes\base\images\toggle-collapse-light.png" />
